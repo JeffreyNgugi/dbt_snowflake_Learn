@@ -1,7 +1,7 @@
 SELECT ID,
     NAME,
     NATIONALITY,
-    CREATED_AT,
+    CREATED_AT as users_created_at,
     LANGUAGE,
     GENDER,
     OCCUPATION,
