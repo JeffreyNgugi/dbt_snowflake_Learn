@@ -1,5 +1,5 @@
 SELECT ID as PROD_ID,
-    CREATED_AT,
+    CREATED_AT as products_created_at,
     MAKE,
     MODEL,
     YEAR,
