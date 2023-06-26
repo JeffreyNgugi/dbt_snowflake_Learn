@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: airbyte_pull
+    database: airbyte_pull  
+    schema: source  
+    tables:
+      - name: products
+      - name: purchases
+      - name: users
